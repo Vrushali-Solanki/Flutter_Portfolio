@@ -8,7 +8,7 @@ Welcome to my Flutter portfolio app repository! This project is a showcase of my
 3. Detailed Information: Providing comprehensive details about my skills, expertise, and background.
 4. Contact Section: Facilitating easy communication for potential clients, employers, or fellow developers.
 
-# Feedback and Support🤝
+# Feedback and Support
 I'm constantly striving to improve this portfolio app, and your feedback is invaluable. Feel free to submit issues, feature requests, or suggestions via GitHub issues.
 
 If you encounter any bugs or issues, please let me know, and I'll do my best to address them promptly.
@@ -16,7 +16,7 @@ If you encounter any bugs or issues, please let me know, and I'll do my best to 
 Contributions
 Contributions to this project are welcome and encouraged! Whether you're fixing a bug, implementing a new feature, or improving documentation, your contributions make a difference.
 
-# To contribute:
+# To contribute
 
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature/your-feature).
