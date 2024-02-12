@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692425688460",
+    "project_id": "vrushali-portfolio",
+    "storage_bucket": "vrushali-portfolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692425688460:android:2967f2c912b8fc67d2c2a9",
+        "android_client_info": {
+          "package_name": "com.example.Portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKv8fkEXTk_aVsWzdSzGA53rdGb06luVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
